@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["eslint:recommended"],
+  "rules": {
+    "semi": 2
+  },
+  "env": {
+    "node": true
+  }
+}
